@@ -1,2 +1,4 @@
 # TheMoyeoTheBetter - ToMaToBang - StudyON
-[#1](../issues/25)
+
+[20.09.25](https://github.com/TeamTMTB/TMTB/issues/2)
+[20.10.06](https://github.com/TeamTMTB/TMTB/issues/4)
